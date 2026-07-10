@@ -187,11 +187,8 @@ Research project focused on AI-driven civic issue prioritization using NLP and M
 # 📊 GitHub Statistics
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kritikagupta22&show_icons=true&theme=radical"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kritikagupta22&layout=compact&theme=radical"/>
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kritikagupta22&show_icons=true&theme=radical&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kritikagupta22&layout=compact&theme=radical&cache_seconds=1800"/>
 </p>
 
 ---
