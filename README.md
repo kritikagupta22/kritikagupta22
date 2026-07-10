@@ -273,7 +273,7 @@ Research project focused on AI-driven civic issue prioritization using NLP and M
 ## 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/kritikagupta22/kritikagupta22/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+<img src="https://raw.githubusercontent.com/kritikagupta22/kritikagupta22/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 <!--
