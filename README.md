@@ -212,7 +212,11 @@ Research project focused on AI-driven civic issue prioritization using NLP and M
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/kritika-gupta-65902428a">
+<a href="https://kritikagupta22.github.io/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-24292F?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/kritika-gupta-65902428a" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -220,19 +224,21 @@ Research project focused on AI-driven civic issue prioritization using NLP and M
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/kritikagupta22">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<a href="https://github.com/kritikagupta22" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="YOUR_LEETCODE_LINK">
-<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
+<a href="https://leetcode.com/u/kritika_2025/" target="_blank">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
-<a href="YOUR_HACKERRANK_LINK">
-<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank"/>
+<a href="YOUR_HACKERRANK_LINK" target="_blank">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 
 </p>
+
+---
 
 ---
 
